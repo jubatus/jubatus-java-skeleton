@@ -4,7 +4,7 @@ Skelton of Jubatus Client Application in Java
 Requirements
 ------------
 
-* Jubatus 0.3.3 (server)
+* Jubatus 0.4.0 (server)
 * [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/)
     * Tested with Indigo SR2 (3.7.2) and Juno SR1 (4.2.1).
     * Note: `Java EE Developers` edition does not support Git by default.

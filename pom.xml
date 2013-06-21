@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
-	<artifactId>jubatus-java-skelton</artifactId>
+	<artifactId>jubatus-java-skeleton</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Jubatus-Java-Skelton</name>
+	<name>Jubatus-Java-Skeleton</name>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>

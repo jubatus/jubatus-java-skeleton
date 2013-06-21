@@ -1,5 +1,5 @@
-Skelton of Jubatus Client Application in Java
-=============================================
+Skeleton of Jubatus Client Application in Java
+===============================================
 
 Requirements
 ------------
@@ -12,12 +12,12 @@ Requirements
 Usage
 -----
 
-To import a skelton project to Eclipse IDE:
+To import a skeleton project to Eclipse IDE:
 
 1. Choose `Import...` from `File` menu.
 2. Select `Git` > `Projects from Git`, then click `Next`.
 3. Select `URI`, then click `Next`.
-4. Fill `URI` field with `https://github.com/jubatus/jubatus-java-skelton.git`, then click `Next`.
+4. Fill `URI` field with `https://github.com/jubatus/jubatus-java-skeleton.git`, then click `Next`.
 5. Follow the instruction on the dialog and complete the wizard.
 
 Once the import has been completed, Maven will automatically download Jubatus client library and other dependencies.

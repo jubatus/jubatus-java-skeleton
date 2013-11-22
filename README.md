@@ -4,7 +4,7 @@ Skeleton of Jubatus Client Application in Java
 Requirements
 ------------
 
-* Jubatus 0.4.2+ (server)
+* Jubatus 0.5.0+ (server)
 * [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/)
     * Tested with Indigo SR2 (3.7.2) and Juno SR1 (4.2.1).
     * Note: `Java EE Developers` edition does not support Git by default.
@@ -28,3 +28,9 @@ You will see `Client.java` in the `(default package)` tree.
 
 To run the client program, right-click on the `Client.java` and select `Run As` > `Java Application`.
 Make sure you start the `jubarecommender` process before running the client.
+
+```
+$ jubarecommender --configpath /usr/local/share/jubatus/example/config/recommender/lsh.json &
+```
+
+We assume that Jubatus was installed into /usr/local/. Otherwise, please modify the path.

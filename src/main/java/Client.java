@@ -39,10 +39,10 @@ public class Client {
 			}
 			System.out.println();
 		}
+		r.close();
 	}
 
 	public static void main(String[] args) throws Exception {
 		new Client().start();
-		System.exit(0);
 	}
 }

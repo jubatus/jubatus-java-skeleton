@@ -5,12 +5,13 @@ Requirements
 ------------
 
 * Jubatus 0.5.0+ (server)
-* [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/)
-    * Tested with Indigo SR2 (3.7.2) and Juno SR1 (4.2.1).
-    * Note: `Java EE Developers` edition does not support Git by default.
 
-Usage
------
+Usage (Eclipse)
+-------------------------
+
+Requires [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/).
+Tested with Indigo SR2 (3.7.2) and Juno SR1 (4.2.1).
+Please note that `Java EE Developers` edition does not support Git by default.
 
 To import a skeleton project to Eclipse IDE:
 
@@ -34,3 +35,13 @@ $ jubarecommender --configpath /usr/local/share/jubatus/example/config/recommend
 ```
 
 We assume that Jubatus was installed into /usr/local/. Otherwise, please modify the path.
+
+Usage (CLI)
+-------------------------
+
+Requires [Maven](http://maven.apache.org/).
+
+```
+mvn compile
+mvn exec:java
+```

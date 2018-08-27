@@ -4,7 +4,7 @@ Skeleton of Jubatus Client Application in Java
 Requirements
 ------------
 
-* Jubatus 0.5.0+ (server)
+* Jubatus 1.1.0+ (server)
 
 Usage (Eclipse)
 -------------------------
